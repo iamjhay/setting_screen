@@ -1,50 +1,39 @@
-# Welcome to your Expo app 👋
+# Welcome to the **Daily UI Challenge - Day 3** 🚀  
+Each day, we create a new mobile app screen to enhance the UI/UX and mobile development skills.  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### 📌 Day 3 - Settings Screen 👋
+A simple and modern settings screen. pro feature utilizes a language picker while detecting the user's location as the default value.
 
-## Get started
+### 🎨 Features:
+- Minimalist and user-friendly design  
+- simple radio buttons
 
-1. Install dependencies
+### 🛠️ Technologies Used:
+- Expo - React Native
+- Styled Components
+  **PRO LEVELS - [See the advanced branch on the branch tab here on github]**
+- language picker and detecting the user's default locale. (flagsapi)  
 
+### 📸 Screenshot  
+<div align="left">
+  <img height="500" src="https://imagedelivery.net/_QLyhNQIk5K6p8kNrFQcIA/cdd5af6c-559c-4ec0-141e-b2ef5f2bc500/public"  />
+</div>
+
+### 🚀 How to Use  
+1. Clone the repository:  
    ```bash
-   npm install
+   git clone https://github.com/iamjhay/confirmation_code_form.git
+   ```
+2. Navigate to the project directory and install dependencies:  
+   ```bash
+   cd setting_screen && npm install
+   ```
+3. Run the project on your mobile emulator or device:  
+   ```bash
+   npm start
    ```
 
-2. Start the app
+### 💡 Why This Challenge?  
+Practicing UI/UX design daily helps improve creativity, problem-solving skills, and mastery of design principles.
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
